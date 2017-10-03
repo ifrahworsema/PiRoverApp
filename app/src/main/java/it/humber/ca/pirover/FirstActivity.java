@@ -22,6 +22,8 @@ public class FirstActivity extends AppCompatActivity {
             }
         });
 
+        int a;
+
 
     }
 }
