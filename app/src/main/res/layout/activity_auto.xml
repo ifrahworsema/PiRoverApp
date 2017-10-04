@@ -34,15 +34,4 @@
         android:layout_below="@+id/textView1"
         android:layout_centerHorizontal="true" />
 
-    <Button
-        android:id="@+id/backButton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Exit"
-        tools:layout_editor_absoluteX="148dp"
-        tools:layout_editor_absoluteY="349dp"
-        android:layout_marginTop="62dp"
-        android:layout_below="@+id/toggleButton"
-        android:layout_alignStart="@+id/toggleButton" />
-
 </RelativeLayout>
